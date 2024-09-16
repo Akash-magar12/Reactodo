@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.con {
+  background-image: url(./assets/todo.avif);
+}
